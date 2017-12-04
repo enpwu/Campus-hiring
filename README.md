@@ -1,3 +1,3 @@
 # Campus-hiring
 
-read me
+This project is used for campus hiring followup.
